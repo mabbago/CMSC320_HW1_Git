@@ -5,3 +5,7 @@ Answer: It will help us learn how to use Git for the workforce since lots of com
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: One place that data science could be applied to is healthcare. An example of this is using data science to tailor treatments to patients based on their history and genetics.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines the histories of two branches into one, preserving it, while rebasing rewrites it. 
