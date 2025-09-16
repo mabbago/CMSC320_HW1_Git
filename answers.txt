@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: It will help us learn how to use Git for the workforce since lots of companies with technical jobs use it. Furthermore, it's useful when collaborating with others. 
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: One place that data science could be applied to is healthcare. An example of this is using data science to tailor treatments to patients based on their history and genetics.
